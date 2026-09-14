@@ -31,7 +31,7 @@ Then open http://127.0.0.1:5000 in a browser.
 
 ## Live site
 
-[link here]
+[https://redbull-landing-page.onrender.com]
 
 ## Project structure
 
